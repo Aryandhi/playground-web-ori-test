@@ -5,5 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    path: "http://localhost:6061",
   },
 });
